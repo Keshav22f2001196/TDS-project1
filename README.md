@@ -8,7 +8,7 @@ Colab file link ["https://colab.research.google.com/drive/1-EM_tHcoLuu52i8fMX6Rq
   - **29,251 repositories** across **9 columns** in **repositories.csv** (fields like **login, full name, creation date, language, license**).
 - **Missing Data** includes:
   - **Name (7)**, **company (162)**, and **email (241)** for users.
-  - **Language (7,225)** and **license_name (14,012)** for repositories.
+  - **Language (7,247)** and **license_name (14,026)** for repositories.
 - **Data Types**:
   - **users.csv**: Primarily **object types** with numerical fields for **public repositories, followers, following**.
   - **repositories.csv**: Mixed types, including **int64 for stargazers_count, watchers_count**, and **Boolean fields** like **has_projects, has_wiki** to indicate enabled features.
