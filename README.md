@@ -4,8 +4,8 @@ Colab file link ["https://colab.research.google.com/drive/1-EM_tHcoLuu52i8fMX6Rq
 ## Data Extraction Process
 - **GitHub API** was used to collect comprehensive data on **Dublin-based developers with over 50 followers**.
 - Dataset comprises:
-  - **476 users** with personal details in **11 columns** in **users.csv** (fields like **login, name, company, location, followers**).
-  - **29,184 repositories** across **9 columns** in **repositories.csv** (fields like **login, full name, creation date, language, license**).
+  - **477 users** with personal details in **11 columns** in **users.csv** (fields like **login, name, company, location, followers**).
+  - **29,251 repositories** across **9 columns** in **repositories.csv** (fields like **login, full name, creation date, language, license**).
 - **Missing Data** includes:
   - **Name (7)**, **company (162)**, and **email (241)** for users.
   - **Language (7,225)** and **license_name (14,012)** for repositories.
